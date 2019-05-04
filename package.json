@@ -1,6 +1,6 @@
 {
   "name": "qfiles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./src/index.js",
   "scripts": {
     "test": "mocha ./test/index.js"
