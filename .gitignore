@@ -1,0 +1,30 @@
+#
+# Generic
+#
+
+# OS
+.DS_Store
+.DS_Store?
+*[Tt]humbs.db
+.Spotlight-V100
+.Trashes
+.Trash-1000/
+*.Trashes
+
+._*
+*.log
+.idea/
+.tmp/
+
+bower_components/
+node_modules/
+
+yarn.lock
+package-lock.json
+
+#
+# Conventional
+#
+
+local/
+public/

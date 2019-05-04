@@ -1,0 +1,32 @@
+{
+  "name": "qfiles",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha ./test/index.js"
+  },
+  "description": "Helpers for handling files with Node.js, without dependencies (requireAll, requireToObj, RequireFiles, ...).",
+  "keywords": [
+    "require",
+    "requireAll",
+    "requireFiles",
+    "requireToObj",
+    "file",
+    "files"
+  ],
+  "homepage": "https://github.com/Nicolab/qfiles.js",
+  "author": {
+    "name": "Nicolas Tallefourtane",
+    "url": "https://nicolab.net"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Nicolab/qfiles.js.git"
+  },
+  "bugs": "https://github.com/Nicolab/qfiles.js/issues",
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "unit.js": "^2.1.0"
+  }
+}
