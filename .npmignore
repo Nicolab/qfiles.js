@@ -11,7 +11,7 @@ build.sh
 .babelrc
 .gitignore
 test/
-src/
+# src/
 bower_components/
 node_modules/
 local/
